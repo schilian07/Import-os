@@ -1,6 +1,6 @@
 import os
 
-restaurantes = ["Pé de Fava", " CL refeições"]
+restaurantes = ["leit.ao", "Schilian Restaurantes"]
 
 def finalizar_app():
     os.system("clear")
